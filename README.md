@@ -26,5 +26,5 @@ End of the `README.md` Section.
 ---
 Thanks for Watching.
 
-Lalala.
+Finally completed.
 
